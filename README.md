@@ -1,4 +1,4 @@
-
+![logo](C:\Users\91755\Desktop\github.png)
 <h1 align="center">Hi 👋, I'm Jayashri Dhage</h1>
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
