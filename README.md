@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Jayashri123478](https://github.com/Jayashri123478)
+- 👨‍💻 All of my projects are available at [https://github.com/Jayashri123478](https://github.com/JayashriiDhage24)
 
 - 💬 Ask me about **HTML,CSS,JS,React.js,Node.js,Express.js**
 
