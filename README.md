@@ -1,4 +1,4 @@
-![logo](https://github.com/Jayashri123478/Jayashri123478/blob/main/github.png?raw=true)
+![logo](C:\Users\91755\Desktop\github background pic.png)
 <h1 align="center">Hi 👋, I'm Jayashri Dhage</h1>
 <h3 align="center">A passionate MERN Stack Developer from India and Data Scientist Intern</h3>
 
