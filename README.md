@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayashriidhage24&label=Profile%20views&color=0e75b6&style=flat" alt="jayashriidhage24" /> </p>
 
-- 🔭 I’m currently working on **Statistics**
+- 🔭 I’m currently working on **Tablaeu**
 
 - 🌱 I’m currently learning **Data Science**
 
