@@ -1,5 +1,4 @@
-![logo](https://github.com/JayashriiDhage24/JayashriiDhage24/blob/main/assets/github background pic.png)
-)
+![logo](https://github.com/JayashriiDhage24/JayashriiDhage24/blob/main/assets/github_background_pic.png)
 <h1 align="center">Hi 👋, I'm Jayashri Dhage</h1>
 <h3 align="center">A passionate MERN Stack Developer from India and Data Scientist Intern</h3>
 
